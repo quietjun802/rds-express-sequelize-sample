@@ -26,4 +26,5 @@ app.listen(port, async () => {
     console.log('DB 연결 X', err);
   }
   console.log(`Example app listening on port ${port}`)
+  
 })
